@@ -1,14 +1,26 @@
 [
   {
-    "JobType": "Content Marketer",
+    "JobType": "콘텐츠",
     "Name": "임유정",
     "ImagePath": "https://raw.githubusercontent.com/dv-juoh/match-event/main/marketer/image1.jpg",
-    "Talent ID": "12345"
+    "Talent ID": "1"
   },
   {
-    "JobType": "Performance Marketer",
+    "JobType": "브랜드",
     "Name": "정선웅",
     "ImagePath": "https://raw.githubusercontent.com/dv-juoh/match-event/main/marketer/image2.png",
-    "Talent ID": "54321"
+    "Talent ID": "2"
+  },
+  {
+    "JobType": "퍼포먼스",
+    "Name": "김보근",
+    "ImagePath": "https://raw.githubusercontent.com/dv-juoh/match-event/main/marketer/image1.jpg",
+    "Talent ID": "3"
+  },
+  {
+    "JobType": "마케팅 전략",
+    "Name": "박의로운",
+    "ImagePath": "https://raw.githubusercontent.com/dv-juoh/match-event/main/marketer/image2.png",
+    "Talent ID": "4"
   }
 ]

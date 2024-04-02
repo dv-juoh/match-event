@@ -1,0 +1,32 @@
+[
+  {
+    "Job Type": ["Content Marketer"],
+    "Name": "John",
+    "Image Path": "/images/john.jpg",
+    "Talent ID": "12345"
+  },
+  {
+    "Job Type": [ "Performance Marketer"],
+    "Name": "Emily",
+    "Image Path": "/images/emily.jpg",
+    "Talent ID": "54321"
+  },
+  {
+    "Job Type": ["Public Relations"],
+    "Name": "Michael",
+    "Image Path": "/images/michael.jpg",
+    "Talent ID": "67890"
+  },
+  {
+    "Job Type": ["Content Marketer", "Performance Marketer", "Public Relations", "Experienced"],
+    "Name": "Sarah",
+    "Image Path": "/images/sarah.jpg",
+    "Talent ID": "45678"
+  },
+  {
+    "Job Type": ["Content Marketer", "Performance Marketer", "Public Relations", "Experienced"],
+    "Name": "David",
+    "Image Path": "/images/david.jpg",
+    "Talent ID": "23456"
+  }
+]
